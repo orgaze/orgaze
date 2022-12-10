@@ -1,7 +1,9 @@
 # orgaze
 **organically organize your life.**
 
-<img src="demo.png">
+<p align="center">
+  <img src="demo.png">
+</p>
 
 Orgaze is a program for studies or productivity. Made for people who doesn't want a lot of apps with ad's or premium plans for simple features. Personally speaking I made this program for myself (LuanderFarias). I made this cause i have ADHD. And organizing is something i'm not that great.
 
