@@ -11,9 +11,23 @@ Orgaze is a program for studies or productivity. Made for people who doesn't wan
 
 As a "personal" project i did all the functions i think i would need to organize my personal life, startup's management and other things... But i actually want to receive people feedback of what types of functions they want. No program helped me with my ADHD so i want to make the program that help all the people with this condition or every people that need's help with organization.
 
-#### Actual functions
-- notes
-- calendar
+#### Current functions
+- Notes Tab
+- Habits Tab
+
+#### Planned functions
+- Flashcards
+- Calendar
+- Pomodoro timer
+- File manager
+- Focus Manager
+- Distraction Locker
+- Music Player (with music recommendations to improve focus and productivity)
+- Finances manager
+- Function timer
+- Diary
+- Heath Tab
+- Clock Lock
 
 ## Download
 You can download orgaze from releases on the official github repository, microsoft store or on the website.
